@@ -1,0 +1,3 @@
+version=0.7.0
+file=GameHubLauncher_new.exe
+notes=Исправления и улучшения

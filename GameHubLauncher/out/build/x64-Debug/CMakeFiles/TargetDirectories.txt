@@ -1,0 +1,3 @@
+C:/Users/College/Desktop/AD_product 3 course/GameHubLauncher/out/build/x64-Debug/CMakeFiles/GameHubLauncher.dir
+C:/Users/College/Desktop/AD_product 3 course/GameHubLauncher/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/College/Desktop/AD_product 3 course/GameHubLauncher/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
